@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheuscaet
-- 👀 I’m interested in every Dev
-- 🌱 I’m currently learning all about Js Frameworks
+- 👀 I’m NodeJs developer, preferably Typescript
+- 🌱 I’m currently learning all about Js Frameworks by NodeJs
 - 📫 How to reach me matheuseprofissional@gmail.com
 
 <!---
