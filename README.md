@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheuscaet
-- 👀 I’m NodeJs developer, preferably Typescript
-- 🌱 I’m currently learning all about Js Frameworks by NodeJs
+- 👀 I’m Software Engenier, right now working on JavaScript technologies, C# and GO languages.
+- 🌱 I’m currently learning all about Js Frameworks and GO using.
 - 📫 How to reach me matheuseprofissional@gmail.com
 
 <!---
